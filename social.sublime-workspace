@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"direc",
+				"directory_contact"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jordan1/Desktop/functions.php",
+		"/Users/Jordan1/Desktop/_ForWeb/functions.php",
+		"/Users/Jordan1/Desktop/sabai-directory/lib/Directory/Controller/AddListing.php",
+		"/Users/Jordan1/Downloads/sabaidirectory-1.3-2.9/sabai-directory/lib/Directory/Widget.php",
+		"/Users/Jordan1/Downloads/sabaidirectory-1.3-2.9/sabai-directory/languages/sabai-directory.pot",
+		"/Users/Jordan1/Downloads/sabaidirectory-1.3-2.9/sabai-directory/assets/templates/directory_searchbox.html.php",
+		"/Users/Jordan1/Downloads/sabaidirectory-1.3-2.9/sabai-directory/lib/Directory.php",
+		"/Users/Jordan1/Downloads/sabaidirectory-1.3-2.9/sabai-directory/lib/DirectoryCSVImport/Controller/Admin/Import.php",
+		"/Volumes/Macintosh HD/Users/Jordan1/Sites/snow/front-page.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"example",
+			"listify_content_job_listing_meta",
+			"listify_single_job_listing_meta",
+			"content",
+			"content-single-job_listing-title-category",
+			"</option>",
+			"<option value=\"Search Engine\">",
+			"&nbsp;",
+			"<td valign=\"top\" class=\"cptd2\"><a href=\"quick-contact-list.php?delint_qcid=1003\" onclick=\"return deleteconfirm();\">Delete</a></td>",
+			"<td><a href=\"quick-contact-add.php?int_qcid=1003\" >Edit</a></td>",
+			"<td>&nbsp;New Enquiry</td>",
+			" valign=\"top\" class=\"cptd1\"",
+			" height=\"25\" valign=\"top\" class=\"cptd1\"",
+			"height=\"25\" valign=\"top\" class=\"cptd1\"",
+			"<td valign=\"top\" class=\"cptd1\">&nbsp;",
+			"<td height=\"25\" valign=\"top\" class=\"cptd1\">&nbsp;",
+			"enque",
+			"preloader",
+			"Powered",
+			"email",
+			"listposts",
+			"admin-listposts",
+			"sabai-content-admin-listposts",
+			"filters",
+			"sabai-entity-filters",
+			"Listings",
+			"Already registered?",
+			"Username",
+			"sabai-form-type-email",
+			"Username",
+			"location",
+			"sidebars_widgets",
+			"sidebar",
+			"avia-builder-widget-area",
+			"widget-area",
+			"avia-builder-widget-area",
+			"widget",
+			"widget-area",
+			"widget_area",
+			"widget",
+			"widger",
+			"-10px;",
+			"Select $s",
+			"Select Category",
+			"directory_category",
+			"Select",
+			"Select Category",
+			"<option value=\"\">Select Category</option>",
+			"directory_category",
+			"Select Category",
+			"Category",
+			"sabai-entity-field-name-directory-category",
+			"Select",
+			"Select category",
+			"Select",
+			"Category",
+			"Select Category",
+			"select-category",
+			"category",
+			"claim this",
+			"claim",
+			"claim this listing",
+			"claim",
+			"claim this listing",
+			"claim your listing",
+			"Alabama",
+			" - ",
+			"hide_searchbox=\"1\"",
+			"\"0\"",
+			"\"1\"",
+			"Select category",
+			"select",
+			"non-featured",
+			"email",
+			"sabai-directory-contact-email",
+			"Select category",
+			"@ ",
+			" @",
+			"&nbsp;",
+			"\" target=\"_blank",
+			"\" target=\"_self\"",
+			"\">@",
+			".com",
+			"food_stylsit_bio/",
+			" </td>",
+			"<td> ",
+			"<td >",
+			"<tr >",
+			"\">@",
+			"&nbsp;",
+			" &nbsp;",
+			" ",
+			"table",
+			"valign=\"middle\"",
+			"<font color=\"blue\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"height=\"20\"",
+			"<td>\n										\n									</td>",
+			"<td></td>",
+			"<font size=\"1\" color=\"black\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"<font size=\"1\">",
+			"<font face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"<font size=\"2\">",
+			"<font size=\"2\" color=\"black\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"<font color=\"blue\">",
+			"<font face=\"Verdana, Arial, Helvetica, sans-serif\"><font size=\"1\">",
+			"<img src=\"food_stylist_graphics/food_stylist_icon.jpg\" alt=\"\" width=\"25\" height=\"21\" border=\"0\">",
+			"<tr>\n									<td colspan=\"3\"><a id=\"ky\" name=\"ky\">\n										<hr>",
+			"								<tr>\n									<td colspan=\"3\"><a id=\"ks\" name=\"ks\">\n										<hr>",
+			"<b>",
+			"</b>",
+			"</a>",
+			"<font size=\"2\" color=\"blue\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"<font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"<font size=\"1\"><font face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"</font>",
+			"<font size=\"1\" face=\"Verdana, Arial, Helvetica, sans-serif\">",
+			"\" target=\"_blank\">",
+			"<a href=\"",
+			"mail",
+			"<a href=\"<mailto:",
+			"mail",
+			"</a>",
+			"\">@</a>",
+			"<a href=\"mailto:",
+			"*",
+			"<b> *</b>",
+			"<b>* </b>",
+			"svg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"-35px;",
+			"Select Country/State",
+			"</a> - ",
+			"hide_searchbox=\"1\" feature=\"0\"",
+			"\"1\"",
+			"\"0\"",
+			"Select State/Country",
+			"",
+			"</td>",
+			"<td>",
+			"<tr>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true
+}

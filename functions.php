@@ -30,3 +30,6 @@ add_theme_support( 'genesis-footer-widgets', 3 );
 //* Reposition the primary navigation menu
 remove_action( 'genesis_after_header', 'genesis_do_nav' );
 add_action( 'genesis_header_right', 'genesis_do_nav' );
+
+//* Remove the site description
+remove_action( 'genesis_site_description', 'genesis_seo_site_description' );

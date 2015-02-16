@@ -863,8 +863,8 @@ img.alignright,
 ---------------------------------------------------------------------------------------------------- */
 
 .site-header {
-	background-color: #fff;
-	min-height: 160px;
+	background-color: #262828;
+	min-height: 100px;
 }
 
 .site-header .wrap {
@@ -947,7 +947,7 @@ img.alignright,
 .genesis-nav-menu a {
 	color: #000;
 	display: block;
-	padding: 15px 24px;
+	padding: 22px 24px;
 }
 
 .genesis-nav-menu a:hover,
@@ -1043,7 +1043,7 @@ img.alignright,
 }
 
 .nav-primary .genesis-nav-menu a {
-	color: #000;
+	color: #fff;
 }
 
 .nav-primary .genesis-nav-menu .sub-menu a {
@@ -1053,7 +1053,7 @@ img.alignright,
 .nav-primary .genesis-nav-menu a:hover,
 .nav-primary .genesis-nav-menu .current-menu-item > a,
 .nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
-	color: #e5554e;
+	color: #21b6ae;
 }
 
 /* ## Secondary Navigation

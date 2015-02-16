@@ -868,7 +868,7 @@ img.alignright,
 }
 
 .site-header .wrap {
-	padding: 40px 0;
+	padding: 10px 0;
 }
 
 /* ## Title Area
@@ -945,9 +945,9 @@ img.alignright,
 }
 
 .genesis-nav-menu a {
-	color: #333;
+	color: #000;
 	display: block;
-	padding: 30px 24px;
+	padding: 15px 24px;
 }
 
 .genesis-nav-menu a:hover,
@@ -1039,15 +1039,15 @@ img.alignright,
 --------------------------------------------- */
 
 .nav-primary {
-	background-color: #333;
+	
 }
 
 .nav-primary .genesis-nav-menu a {
-	color: #fff;
+	color: #000;
 }
 
 .nav-primary .genesis-nav-menu .sub-menu a {
-	color: #333;
+	color: #999;
 }
 
 .nav-primary .genesis-nav-menu a:hover,

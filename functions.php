@@ -26,3 +26,7 @@ add_theme_support( 'custom-background' );
 
 //* Add support for 3-column footer widgets
 add_theme_support( 'genesis-footer-widgets', 3 );
+
+//* Reposition the primary navigation menu
+remove_action( 'genesis_after_header', 'genesis_do_nav' );
+add_action( 'genesis_header_right', 'genesis_do_nav' );
